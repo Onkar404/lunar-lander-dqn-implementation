@@ -62,8 +62,8 @@ Output Layer: action_size (4) -> Q-values
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/dqn-lunar-lander.git
-cd dqn-lunar-lander
+git clone https://github.com/yourusername/lunar-lander-dqn-implementation.git
+cd lunar-lander-dqn-implementation
 ```
 
 **2. Create environment & install dependencies**
